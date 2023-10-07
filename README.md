@@ -3,6 +3,7 @@
 ## AIM
 To write a html webpage page to display your slot timetable.
 
+## DATE : 07/10/2023
 ## ALGORITHM
 ### STEP 1
 Create a Django-admin Interface.
@@ -151,11 +152,9 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
-```
+``
 ## OUTPUT
-
-
-## HTML VALIDATOR
+![Alt text](<sudhar/new1/static/Screenshot (287).png>)
 
 
 ## RESULT
