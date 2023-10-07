@@ -152,8 +152,9 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
-``
+```
 ## OUTPUT
+
 ![Alt text](<sudhar/new1/static/Screenshot (287).png>)
 
 
